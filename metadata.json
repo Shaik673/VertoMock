@@ -1,0 +1,11 @@
+{
+  "name": "VertoMock AI",
+  "description": "AI-Powered Mock Interview and Assessment Platform with adaptive questioning, interactive coding playground, voice analysis, dynamic follow-ups, resume intelligence, and detailed readiness reports.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
